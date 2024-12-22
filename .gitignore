@@ -2,3 +2,4 @@ venv/
 .idea/
 workout_analysis.iml
 workout-analysis.iml
+workout_data_cleaned.csv
